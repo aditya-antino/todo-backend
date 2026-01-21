@@ -28,5 +28,5 @@ jobs:
           context: .
           push: true
           tags: |
-           adityantino/aditya-todo-backend:latest
-           adityantino/aditya-todo-backend:${{ github.sha }}
+            adityaantino/aditya-todo-backend:latest
+            adityaantino/aditya-todo-backend:${{ github.sha }}
