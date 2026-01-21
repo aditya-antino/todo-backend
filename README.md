@@ -30,3 +30,8 @@ Run:
 
 ```bash
 ./deploy.sh
+
+---
+
+## Author
+Aditya Mishra
